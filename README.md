@@ -1,10 +1,10 @@
-# default-repository
+# markdown
 
 <!-- automd:badges color=black license provider=shields -->
 
-[![npm version](https://img.shields.io/npm/v/default-repository?color=black)](https://npmjs.com/package/default-repository)
-[![npm downloads](https://img.shields.io/npm/dm/default-repository?color=black)](https://npmjs.com/package/default-repository)
-[![license](https://img.shields.io/github/license/HugoRCD/default-repository?color=black)](https://github.com/HugoRCD/default-repository/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/markdown?color=black)](https://npmjs.com/package/markdown)
+[![npm downloads](https://img.shields.io/npm/dm/markdown?color=black)](https://npmjs.com/package/markdown)
+[![license](https://img.shields.io/github/license/HugoRCD/markdown?color=black)](https://github.com/HugoRCD/markdown/blob/main/LICENSE)
 
 <!-- /automd -->
 
@@ -18,26 +18,26 @@ Install package:
 
 ```sh
 # ✨ Auto-detect
-npx nypm install default-repository
+npx nypm install markdown
 
 # npm
-npm install default-repository
+npm install markdown
 
 # yarn
-yarn add default-repository
+yarn add markdown
 
 # pnpm
-pnpm install default-repository
+pnpm install markdown
 
 # bun
-bun install default-repository
+bun install markdown
 ```
 
 <!-- /automd -->
 
 ## Development
 
-Before you start, you can use the `./scripts/rename.sh` script to rename all `default-repository` occurrences in the repository to your new repository name.
+Before you start, you can use the `./scripts/rename.sh` script to rename all `markdown` occurrences in the repository to your new repository name.
 
 ### Local development
 
@@ -68,11 +68,11 @@ To start contributing, you can follow these steps:
 
 <!-- automd:contributors license=Apache author=HugoRCD-->
 
-Published under the [APACHE](https://github.com/HugoRCD/default-repository/blob/main/LICENSE) license.
-Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/HugoRCD/default-repository/graphs/contributors) 💛
+Published under the [APACHE](https://github.com/HugoRCD/markdown/blob/main/LICENSE) license.
+Made by [@HugoRCD](https://github.com/HugoRCD) and [community](https://github.com/HugoRCD/markdown/graphs/contributors) 💛
 <br><br>
-<a href="https://github.com/HugoRCD/default-repository/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=HugoRCD/default-repository" />
+<a href="https://github.com/HugoRCD/markdown/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=HugoRCD/markdown" />
 </a>
 
 <!-- /automd -->

@@ -13,11 +13,11 @@ fi
 replacement_string=$1
 
 # Find files excluding specified directories
-files=$(grep -rl 'default-repository' $(printf -- '--exclude-dir=%s ' "${excluded_dirs[@]}"))
+files=$(grep -rl 'markdown' $(printf -- '--exclude-dir=%s ' "${excluded_dirs[@]}"))
 
 for file in $files; do
-    sed -i "" "s/default-repository/$replacement_string/g" $file
-    echo "Replaced 'default-repository' with '$replacement_string' in $file"
+    sed -i "" "s/markdown/$replacement_string/g" $file
+    echo "Replaced 'markdown' with '$replacement_string' in $file"
 done
 
 echo "Replacement complete."
