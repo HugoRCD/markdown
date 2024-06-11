@@ -1,4 +1,5 @@
-### Local development
+<details>
+  <summary>Local development</summary>
 
 - Clone this repository
 - Install latest LTS version of [Node.js](https://nodejs.org/en/)
@@ -6,3 +7,5 @@
 - Install dependencies using `bun install`
 - Start development server using `bun dev`
 - Open [http://localhost:3000](http://localhost:3000) in your browser
+
+</details>

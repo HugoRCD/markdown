@@ -11,19 +11,10 @@
   },
   "scripts": {
     "automd": "automd",
-    "prepare": "husky",
     "release": "changelogen --release --push"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.2.2",
     "automd": "^0.3.7",
-    "changelogen": "^0.5.5",
-    "husky": "^9.0.11"
-  },
-  "commitlint": {
-    "extends": [
-      "@commitlint/config-conventional"
-    ]
+    "changelogen": "^0.5.5"
   }
 }
