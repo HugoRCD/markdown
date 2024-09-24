@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "automd": "^0.3.8",
-    "changelogen": "^0.5.5"
+    "changelogen": "^0.5.7"
   }
 }
