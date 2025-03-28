@@ -6,7 +6,9 @@ This is possible thanks to the [automd](https://automd.unjs.io) tool that can fe
 
 ## Usage
 
+```
 <!-- automd:fetch url="gh:hugorcd/markdown/main/src/local_development.md" -->
+```
 
 ### Local development
 
