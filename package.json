@@ -14,7 +14,7 @@
     "release": "changelogen --release --push"
   },
   "devDependencies": {
-    "automd": "^0.4.2",
+    "automd": "^0.4.3",
     "changelogen": "^0.6.2"
   }
 }
